@@ -34,4 +34,4 @@ Execute the script in a Python interactive window (e.g., Jupyter Notebook, or yo
 ## Limitations
 
 - **Time Step Dependency**: The accuracy of the simulation is highly dependent on the chosen time step \( dt \). Smaller time steps improve accuracy but increase computation time.
-- **Ignoring Weight and Size**: The simulation assumes the particle is a point mass, simplifying calculations by neglecting its weight and dimensions. This model focuses solely on projectile motion, ignoring potential effects from air resistance or other forces that could influence larger or heavier objects.
+- **Ignoring Weight and Size**: The simulation assumes the particle is a point mass, simplifying calculations by neglecting its weight and dimensions. This model focuses solely on projectile motion, ignoring potential effects from air resistance.
