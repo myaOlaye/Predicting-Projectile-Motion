@@ -6,9 +6,9 @@ This project simulates the projectile motion of a particle using Euler's method 
 
 The simulation employs Euler's method to iteratively calculate the position of the particle at discrete time intervals. The position updates are given by the equations:
 
-- \( x(t + dt) = x(t) + v_x \cdot dt \)
-- \( y(t + dt) = y(t) + v_y \cdot dt \)
-- \( v_y(t + dt) = v_y(t) + g \cdot dt \)
+- \( x(t + dt) = x(t) + v_x * dt \)
+- \( y(t + dt) = y(t) + v_y * dt \)
+- \( v_y(t + dt) = v_y(t) + g * dt \)
 
 Where:
 - \( dt \) is the time step,
