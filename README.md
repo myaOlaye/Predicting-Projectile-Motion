@@ -21,14 +21,7 @@ Where:
 - **NumPy**: For mathematical operations and handling numerical calculations.
 - **Matplotlib**: For plotting the trajectory of the projectile.
 
-To run this code, the above packages must be installed. You can install the packages using pip or conda:
-
-```bash
-pip install numpy matplotlib
-```
-```bash
-conda install numpy matplotlib
-```
+To run this code, the above packages must be installed.
 Execute the script in a Python interactive window (e.g., Jupyter Notebook, or your IDE's interactive terminal). The simulation will prompt you for input parameters and display the projectile motion plot.
 
 ## Limitations
